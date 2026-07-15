@@ -14,7 +14,6 @@ console.log(counter.reset());
 console.log(counter.decrement());
 
 //EX2:
-
 // const counter = createCounter(0);
 // console.log(counter.increment());
 // console.log(counter.increment());
